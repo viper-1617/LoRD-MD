@@ -31,10 +31,10 @@ const fvid = {
                 },
 	 message: { 
                  "videoMessage": { 
-                 "title": `LoRD-MD`,
-                 "h": `LoRD-MD`,
+                 "title": `𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅`,
+                 "h": `𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅`,
                  'duration': '99999', 
-                 'caption': `LoRD-MD`,
+                 'caption': `𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅`,
                  'jpegThumbnail': global.thumb
                         }
                        }
@@ -52,7 +52,7 @@ const lordofc = {
                             itemCount : 123,
                             itemCoun : 404,
                             surface : 404,
-                            message: `© LoRD-MD`,
+                            message: `© 𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅`,
                             orderTitle: 'B',
                             thumbnail: global.thumb, 
                             sellerJid: '0@s.whatsapp.net'
@@ -175,7 +175,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
    })
         }
         const replay = (teks) => {
-            hisoka.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `ʟᴏʀᴅ-ᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`,"body": `Follow me on instagram`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": global.tgumb,"sourceUrl": "https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y="}}}, { quoted: lordofc})
+            hisoka.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`,"body": `Follow me on instagram`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": global.tgumb,"sourceUrl": "https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y="}}}, { quoted: lordofc})
         }
 	    
         // Group
@@ -1621,7 +1621,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                     title: `𝑯𝒊 ${pushname} \n𝑻𝒉𝒊𝒔 𝑰𝒔 𝒎𝒆𝒏𝒖`,
                     description: `🐦`,
                     buttonText: "Menu",
-                    footerText: "LoRD-MD",
+                    footerText: "𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅",
                     listType: "SINGLE_SELECT",
                     sections: [{
 								"title": "Group Features",
@@ -1796,16 +1796,16 @@ case 'allmenu': {
                             hydratedContentText: anu,
                           //  locationMessage: {
                        //     jpegThumbnail: fs.readFileSync('./lib/lord.jpg')},
-                            hydratedFooterText: `LoRD-MD`,
+                            hydratedFooterText: `𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑',
-                                    url: 'https://wa.me/919778383987'
+                                    url: 'https://wa.me/916238054812'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: '𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                    url: 'https://instagram.com/_._adarsh____?igshid=YmMyMTA2M2Y='
                                 }
                             }]
                         }
