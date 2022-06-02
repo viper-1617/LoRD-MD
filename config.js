@@ -8,7 +8,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Website Api
-global.APIs = {
+global.APIs
 	zenz: 'https://zenzapi.xyz',
 }
 
@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 //======================================//
 
-global.wm = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮'
+global.wm = '«𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅»🇮'
 global.ucpn = ''
 
 //================= Url =================//
-global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
-global.linkig = 'https://www.instagram.com/reel/Ccx79E0A8Rt/?igshid=YmMyMTA2M2Y='
+global.linkgc = 'https://chat.whatsapp.com/L0CyNsIyf5F20cgXRAkWNr'
+global.linkig = 'https://instagram.com/_._adarsh____?igshid=YmMyMTA2M2Y='
 global.linkyt = 'https://youtu.be/RnpyRe_7jZA'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
 global.web = 'https://raselcomel.github.io'
@@ -34,11 +34,11 @@ global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = 'Lord-official'
 // Other
-global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
-global.owner = ['919778383987']
-global.premium = ['919778383987']
-global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
-global.author = '𝐿𝑜𝑟𝑑-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
+global.watermark = '«𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅»🇮🇳'
+global.owner = ['916238054812']
+global.premium = ['916238054812']
+global.packname = 'ī.ᴀᴍ      ❤️҉️       ᴠɪᴘᴇʀ'
+global.author = '𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅'
 global.sessionName = 'lord'
 global.prefa = ['','!','.','🐦',',','*']
 global.sp = '❄︎'
